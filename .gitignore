@@ -21,6 +21,7 @@
 *.userprefs
 *.suo
 *.sln.docstates
+.idea/
 
 # ============ #
 # OS generated #
