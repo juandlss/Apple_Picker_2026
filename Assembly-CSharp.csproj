@@ -50,6 +50,7 @@
     <Compile Include="Assets/Apple.cs" />
     <Compile Include="Assets/ScoreCounter.cs" />
     <Compile Include="Assets/Basket.cs" />
+    <Compile Include="Assets/HighScore.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
